@@ -100,7 +100,7 @@ print("="*55)
 
 
 # ============================================================
-# 6. CURVA DE ENERGÍA POTENCIAL (opcional)
+# 6. CURVA DE ENERGÍA POTENCIAL 
 # ============================================================
 def energia_vs_distancia(distancias_ang):
     """Calcula E(R) para una lista de distancias de enlace."""
